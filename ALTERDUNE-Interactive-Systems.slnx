@@ -3,13 +3,14 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Folder Name="/data/" />
-  <Folder Name="/include/">
+  <Folder Name="/data/">
+    <File Path=".gitkeep" />
+  </Folder>
+  <Folder Name="/include/" />
+  <Folder Name="/src/">
+    <File Path="main.cpp" />
     <File Path="personnages.cpp" />
   </Folder>
-  <Folder Name="/src/" />
-  <Folder Name="/Éléments de solution/">
-    <File Path="main.cpp" />
-  </Folder>
+  <Folder Name="/Éléments de solution/" />
   <Project Path="ALTERDUNE-Interactive-Systems/ALTERDUNE-Interactive-Systems.vcxproj" />
 </Solution>
