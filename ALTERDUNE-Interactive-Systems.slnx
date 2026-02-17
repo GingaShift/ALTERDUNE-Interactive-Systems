@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/data/" />
+  <Folder Name="/include/" />
+  <Folder Name="/src/" />
+  <Folder Name="/Éléments de solution/">
+    <File Path="main.cpp" />
+  </Folder>
+  <Project Path="ALTERDUNE-Interactive-Systems/ALTERDUNE-Interactive-Systems.vcxproj" />
+</Solution>
