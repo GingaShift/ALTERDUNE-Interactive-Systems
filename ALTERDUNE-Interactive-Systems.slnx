@@ -4,7 +4,9 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/data/" />
-  <Folder Name="/include/" />
+  <Folder Name="/include/">
+    <File Path="personnages.cpp" />
+  </Folder>
   <Folder Name="/src/" />
   <Folder Name="/Éléments de solution/">
     <File Path="main.cpp" />
