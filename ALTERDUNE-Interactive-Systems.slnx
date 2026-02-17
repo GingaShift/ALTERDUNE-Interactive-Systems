@@ -3,14 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Folder Name="/data/">
-    <File Path=".gitkeep" />
-  </Folder>
-  <Folder Name="/include/">
-    <File Path=".gitkeep" />
-  </Folder>
-  <Folder Name="/src/">
-    <File Path=".gitkeep" />
-  </Folder>
   <Project Path="ALTERDUNE-Interactive-Systems/ALTERDUNE-Interactive-Systems.vcxproj" Id="7e7570af-60b1-4342-bf83-9e47b4dedd2c" />
 </Solution>
