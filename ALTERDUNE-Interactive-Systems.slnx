@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Folder Name="/data/" />
   <Project Path="ALTERDUNE-Interactive-Systems/ALTERDUNE-Interactive-Systems.vcxproj" />
 </Solution>
